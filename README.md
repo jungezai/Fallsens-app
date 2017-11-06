@@ -3,27 +3,12 @@
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
-For receiving the device's data and saving to analysis
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+The source code for receiving the device's data and saving to analysis
+
 
 ### How do I get set up? ###
-Use android stdio to open it
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Use android stdio to open the project
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
 ### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
