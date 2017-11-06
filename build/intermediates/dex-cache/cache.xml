@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\bitbusket\fallsens\fallsens_app\app\libs\logger-v1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0153beb7fa337d826ae475fc9e8ab7f096854d75">
+        <dex dex="D:\bitbusket\fallsens\fallsens_app\app\build\intermediates\transforms\dex\debug\folders\1000\2\logger-v1_67d7a55c41629c47817b62c735bf7ac826f3baf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bitbusket\fallsens\fallsens_app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\bitbusket\fallsens\fallsens_app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_29d27738e93056fb92361b1506edc39114b61164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bitbusket\fallsens\fallsens_app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eea77b54a5ee1c9183fc72d1f7377d427702443a">
+        <dex dex="D:\bitbusket\fallsens\fallsens_app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_477833a67122006df98682adf41f3d2730a655a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bitbusket\fallsens\fallsens_app\app\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\bitbusket\fallsens\fallsens_app\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.1.0_09d484b41cbe10cf8f891d91ce5f4b42b4370eb1\classes.dex" />
+    </item>
+
+</items>

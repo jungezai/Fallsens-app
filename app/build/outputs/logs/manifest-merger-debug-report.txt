@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:10:1-75:12
+	package
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:11:5-52
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:13:5-30
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:12:5-28
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:10:11-69
+uses-sdk
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:22:5-24:41
+	android:targetSdkVersion
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:24:9-38
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:23:9-35
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:27:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:28:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:30:22-78
+application
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:32:5-73:19
+	android:hasCode
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:37:41-63
+	android:label
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:35:9-41
+	android:allowBackup
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:34:9-41
+	android:theme
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:37:9-40
+	android:logo
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:36:9-47
+activity#no.nordicsemi.android.nrftoolbox.SplashscreenActivity
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:38:9-47:20
+	android:label
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:40:13-45
+	android:theme
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:41:13-55
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:39:13-81
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:45:27-74
+activity#no.nordicsemi.android.nrftoolbox.hts.HTSActivity
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:49:9-60:20
+	android:screenOrientation
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:52:13-54
+	android:launchMode
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:53:13-44
+	android:icon
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:50:13-76
+service#no.nordicsemi.android.nrftoolbox.hts.HTSManager
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:61:3-71:13
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:63:7-69
+intent-filter#fff
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:64:4-70:20
+action#fff
+ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:67:5-34
+	android:name
+		ADDED from D:\bitbusket\fallsens\fallsens_app\app\src\main\AndroidManifest.xml:67:13-31

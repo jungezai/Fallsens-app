@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\activity_feature_bpm.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-sw600dp-land\\activity_feature_bpm.xml"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\activity_feature_hrs.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-sw600dp-land\\activity_feature_hrs.xml"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\activity_feature_dfu.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-sw600dp-land\\activity_feature_dfu.xml"
+    }
+]

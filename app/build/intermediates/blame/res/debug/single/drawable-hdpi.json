@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_drive.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\app_drive.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\battery.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\battery.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_rssi_3_bars.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_rssi_3_bars.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_help.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_total_commander.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\app_total_commander.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_dfu_feature.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_dfu_feature.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\proximity_lock_closed.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\proximity_lock_closed.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_rssi_0_bar.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_rssi_0_bar.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\proximity_lock_open.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\proximity_lock_open.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_proximity_feature.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_proximity_feature.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_bluetooth.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_action_bluetooth.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_background_light_n.9.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\item_background_light_n.9.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_rssi_2_bars.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_rssi_2_bars.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_glucose_feature.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_glucose_feature.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_background_light_p.9.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\item_background_light_p.9.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_rssi_1_bar.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_rssi_1_bar.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_file_manager.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\app_file_manager.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nordic_logo.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\nordic_logo.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_hrs_feature.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_hrs_feature.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_divider_holo_light.9.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_moreoverflow.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_moreoverflow.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_permission_log.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_permission_log.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_hts_feature.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_hts_feature.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_about.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_notif_proximity.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\stat_notif_proximity.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nordic_n_logo.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\nordic_n_logo.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_bpm_feature.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_bpm_feature.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_google_play.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\app_google_play.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ab_back_holo_dark.png",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\drawable-hdpi\\ic_ab_back_holo_dark.png"
+    }
+]

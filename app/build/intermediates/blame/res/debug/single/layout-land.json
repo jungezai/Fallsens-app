@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_feature_bpm.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-land\\activity_feature_bpm.xml"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_feature_proximity.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-land\\activity_feature_proximity.xml"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_feature_gls.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-land\\activity_feature_gls.xml"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_feature_hrs.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-land\\activity_feature_hrs.xml"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_feature_dfu.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-land\\activity_feature_dfu.xml"
+    },
+    {
+        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_feature_hts.xml",
+        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout-land\\activity_feature_hts.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cfx.cfxsemi.android.cfxtoolboxppscout.test">
+
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="19" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="cfx.cfxsemi.android.cfxtoolboxppscout"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for cfx.cfxsemi.android.cfxtoolboxppscout"/>
+</manifest>

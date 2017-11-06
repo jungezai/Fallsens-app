@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_bpm.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 62,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 61,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_dfu.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 61,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 62,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_gls.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 62,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 61,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_hrs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 61,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 61,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_hts.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 61,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 67,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_proximity.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 67,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 65,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_bpm.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 65,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 54,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_dfu.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 54,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 66,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_gls.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 66,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 54,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_hrs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 54,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 54,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_hts.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 54,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 66,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-land\\strings_proximity.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 66,
+                        "endOffset": 555
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bpm_feature_title_long_margin">-115dp</dimen>
+    <dimen name="dfu_feature_title_long_margin">-16dp</dimen>
+    <dimen name="gls_feature_title_long_margin">-118dp</dimen>
+    <dimen name="hrs_feature_title_long_margin">-16dp</dimen>
+    <dimen name="hts_feature_title_long_margin">-18dp</dimen>
+    <dimen name="proximity_feature_title_long_margin">-66dp</dimen>
+    <string name="bpm_feature_title_long">BLOOD PRESSURE</string>
+    <string name="dfu_feature_title_long">DFU</string>
+    <string name="gls_feature_title_long">GLUCOSE SERVICE</string>
+    <string name="hrs_feature_title_long">HRM</string>
+    <string name="hts_feature_title_long">HTM</string>
+    <string name="proximity_feature_title_long">PROXIMITY</string>
+</resources>

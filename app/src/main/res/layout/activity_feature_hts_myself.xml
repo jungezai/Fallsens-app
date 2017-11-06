@@ -1,0 +1,356 @@
+<!--
+  Copyright (c) 2013 Nordic Semiconductor. All Rights Reserved.
+  
+  The information contained herein is property of Nordic Semiconductor ASA.
+  Terms and conditions of usage are described in detail in NORDIC SEMICONDUCTOR STANDARD SOFTWARE LICENSE AGREEMENT.
+  Licensees are granted free, non-transferable use of the information. NO WARRANTY of ANY KIND is provided. 
+  This heading must NOT be removed from the file.
+
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".HTSActivity" >
+
+    <!-- android:background="@drawable/back"> -->
+
+
+    <!-- The size of text below must be fixed, therefore dp are used instead of sp -->
+
+    <no.nordicsemi.android.nrftoolbox.widget.TrebuchetBoldTextView
+        android:id="@+id/trebuchetBoldTextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/hts_feature_title_long_margin"
+        android:rotation="270"
+        android:text="@string/hts_feature_title_long"
+        android:textColor="@color/darkGray"
+        android:textSize="32dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/battery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/battery"
+        android:freezesText="true"
+        android:gravity="center"
+        android:text="@string/not_available"
+        android:textColor="#FFFFFF"
+        android:textSize="12sp"
+        android:visibility="invisible" />
+
+    <no.nordicsemi.android.nrftoolbox.widget.TrebuchetTextView
+        android:id="@+id/TrebuchetTextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/text_hth_value"
+        android:layout_alignBottom="@+id/text_hth_value"
+        android:layout_alignParentRight="true"
+        android:text="@string/hts_unit_humidity"
+        android:textSize="12sp" />
+
+    <no.nordicsemi.android.nrftoolbox.widget.TrebuchetTextView
+        android:id="@+id/device_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/text_hth_value"
+        android:ellipsize="end"
+        android:freezesText="true"
+        android:maxLines="1"
+        android:text="@string/hts_default_name"
+        android:textAllCaps="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="12sp" />
+
+    <no.nordicsemi.android.nrftoolbox.widget.TrebuchetTextView
+        android:id="@+id/text_hts_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/text_hth_value"
+        android:layout_below="@+id/battery"
+        android:ellipsize="end"
+        android:freezesText="true"
+        android:maxLines="1"
+        android:text="@string/not_available_value"
+        android:textSize="12sp"
+        android:visibility="invisible" />
+
+    <no.nordicsemi.android.nrftoolbox.widget.TrebuchetTextView
+        android:id="@+id/trebuchetTextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/text_hts_value"
+        android:layout_alignBottom="@+id/text_hts_value"
+        android:layout_alignParentRight="true"
+        android:text="@string/hts_unit_celsius"
+        android:textSize="12sp" />
+
+    <no.nordicsemi.android.nrftoolbox.widget.TrebuchetTextView
+        android:id="@+id/text_hth_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/device_name"
+        android:layout_below="@+id/text_hts_value"
+        android:ellipsize="end"
+        android:freezesText="true"
+        android:maxLines="1"
+        android:text="@string/not_available_value"
+        android:textSize="12sp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button2"
+        android:layout_alignParentRight="true"
+        android:onClick="onSetClicked"
+        android:text="@string/hts_set_threshold"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/action_connect"
+        android:layout_alignParentRight="true"
+        android:onClick="onCheckClicked"
+        android:text="@string/hts_check_his_data"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/action_connect"
+        style="@style/Widget.Connect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="31dp"
+        android:background="#3c78d8"
+        android:onClick="onConnectClicked"
+        android:text="@string/action_connect" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button1"
+        android:layout_alignParentRight="true"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="number"
+        android:text="@string/hts_pls_input_warning_threshold"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/calibratebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:onClick="onCalibrateClicked"
+        android:text="Calibrate"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="12sp"
+        android:layout_below="@+id/alarmvalue"
+        android:layout_alignStart="@+id/button1" />
+
+    <TextView
+        android:id="@+id/textViewX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X"
+        android:textColor="@color/actionBarColor"
+        android:layout_alignBaseline="@+id/editTextX"
+        android:layout_alignBottom="@+id/editTextX"
+        android:layout_alignEnd="@+id/textViewY" />
+
+    <EditText
+        android:id="@+id/editTextX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/device_name"
+        android:layout_marginTop="12dp"
+        android:layout_toEndOf="@+id/text_hth_value"
+        android:ems="10"
+        android:inputType="number|numberSigned|numberDecimal"
+        android:text="0.0"
+        android:textSize="14sp"
+        android:visibility="visible" />
+
+    <EditText
+        android:id="@+id/editTextZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/editTextX"
+        android:layout_below="@+id/editTextY"
+        android:ems="10"
+        android:inputType="number|numberSigned|numberDecimal"
+        android:text="0.0"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/editTextZ"
+        android:layout_alignBottom="@+id/editTextZ"
+        android:layout_toStartOf="@+id/editTextZ"
+        android:text="Z"
+        android:textAppearance="@android:style/TextAppearance"
+        android:textColor="@color/actionBarColor" />
+
+    <EditText
+        android:id="@+id/editTextY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/editTextX"
+        android:layout_below="@+id/editTextX"
+        android:ems="10"
+        android:inputType="number|numberSigned|numberDecimal"
+        android:text="0.0"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/editTextY"
+        android:layout_alignBottom="@+id/editTextY"
+        android:layout_toStartOf="@+id/editTextY"
+        android:text="Y"
+        android:textAppearance="@android:style/TextAppearance"
+        android:textColor="@color/actionBarColor" />
+
+    <TextView
+        android:id="@+id/odatax"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="0.0"
+        android:textAppearance="@android:style/TextAppearance"
+        android:layout_alignBaseline="@+id/odatay"
+        android:layout_alignBottom="@+id/odatay"
+        android:layout_toStartOf="@+id/odatay" />
+
+    <TextView
+        android:id="@+id/odatay"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="0.0"
+        android:textAppearance="@android:style/TextAppearance"
+        android:layout_alignBaseline="@+id/odataz"
+        android:layout_alignBottom="@+id/odataz"
+        android:layout_alignStart="@+id/cdatay" />
+
+    <TextView
+        android:id="@+id/odataz"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="0.0"
+        android:textAppearance="@android:style/TextAppearance"
+        android:layout_alignTop="@+id/text_hts_value"
+        android:layout_alignStart="@+id/cdataz" />
+
+    <TextView
+        android:id="@+id/cdatax"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="0.0"
+        android:textAppearance="@android:style/TextAppearance"
+        android:layout_alignBaseline="@+id/cdatay"
+        android:layout_alignBottom="@+id/cdatay"
+        android:layout_alignStart="@+id/odatax" />
+
+    <TextView
+        android:id="@+id/cdatay"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="0.0"
+        android:textAppearance="@android:style/TextAppearance"
+        android:layout_alignBottom="@+id/cdataz"
+        android:layout_toStartOf="@+id/button1"
+        android:layout_alignTop="@+id/cdataz" />
+
+    <TextView
+        android:id="@+id/cdataz"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="0.0"
+        android:textAppearance="@android:style/TextAppearance"
+        android:layout_below="@+id/device_name"
+        android:layout_toStartOf="@+id/device_name"
+        android:layout_marginEnd="10dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/odatax"
+        android:layout_toStartOf="@+id/odatax"
+        android:text="original data"
+        android:textAppearance="@android:style/TextAppearance"
+        android:textSize="10sp"
+        />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="Cslibrate data"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/cdatax"
+        android:layout_toStartOf="@+id/cdatax" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textViewY"
+        android:layout_alignStart="@+id/textView8"
+        android:text="SVM"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/svm"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView9"
+        android:layout_alignBottom="@+id/textView9"
+        android:layout_alignStart="@+id/cdatax"
+        android:text="0.0"
+        android:textAppearance="@android:style/TextAppearance" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="SVM Alarm Value"
+        android:textColor="@color/actionBarColor"
+        android:layout_above="@+id/calibratebutton"
+        android:layout_toStartOf="@+id/textViewX" />
+
+    <EditText
+        android:id="@+id/alarmvalue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editTextZ"
+        android:layout_below="@+id/editTextZ"
+        android:layout_toEndOf="@+id/cdatax"
+        android:ems="10"
+        android:inputType="number|numberSigned|numberDecimal"
+        android:text="24.5"
+        android:textSize="14sp" />
+
+</RelativeLayout>
