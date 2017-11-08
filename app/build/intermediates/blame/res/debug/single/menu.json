@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gls_more.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\menu\\gls_more.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\menu\\help.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\menu\\help.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gls_more.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\menu\\gls_more.xml"
     }
 ]

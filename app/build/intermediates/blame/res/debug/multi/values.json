@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 254
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1775,
+                        "startOffset": 1743,
                         "endLine": 37,
                         "endColumn": 19,
-                        "endOffset": 1979
+                        "endOffset": 1942
                     }
                 }
             },
@@ -33,14 +33,14 @@
                     "endOffset": 582
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 1985,
+                        "startOffset": 1947,
                         "endLine": 43,
                         "endColumn": 19,
-                        "endOffset": 2313
+                        "endOffset": 2270
                     }
                 }
             },
@@ -54,7 +54,7 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 1325
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 1636
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
@@ -117,7 +117,7 @@
                     "endOffset": 2006
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 4,
@@ -138,7 +138,7 @@
                     "endOffset": 2379
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -159,7 +159,7 @@
                     "endOffset": 3333
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -180,7 +180,7 @@
                     "endOffset": 3839
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -200,13 +200,13 @@
                     "endOffset": 3888
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 546,
+                        "startOffset": 535,
                         "endColumn": 48,
-                        "endOffset": 590
+                        "endOffset": 579
                     }
                 }
             },
@@ -219,13 +219,13 @@
                     "endOffset": 3938
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 596,
+                        "startOffset": 584,
                         "endColumn": 49,
-                        "endOffset": 641
+                        "endOffset": 629
                     }
                 }
             },
@@ -238,13 +238,13 @@
                     "endOffset": 3981
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 809,
+                        "startOffset": 792,
                         "endColumn": 42,
-                        "endOffset": 847
+                        "endOffset": 830
                     }
                 }
             },
@@ -257,13 +257,13 @@
                     "endOffset": 4028
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 755,
+                        "startOffset": 740,
                         "endColumn": 46,
-                        "endOffset": 797
+                        "endOffset": 782
                     }
                 }
             },
@@ -276,13 +276,13 @@
                     "endOffset": 4080
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 483,
                         "endColumn": 51,
-                        "endOffset": 540
+                        "endOffset": 530
                     }
                 }
             },
@@ -295,13 +295,13 @@
                     "endOffset": 4136
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 647,
+                        "startOffset": 634,
                         "endColumn": 55,
-                        "endOffset": 698
+                        "endOffset": 685
                     }
                 }
             },
@@ -314,13 +314,13 @@
                     "endOffset": 4186
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 704,
+                        "startOffset": 690,
                         "endColumn": 49,
-                        "endOffset": 749
+                        "endOffset": 735
                     }
                 }
             },
@@ -333,13 +333,13 @@
                     "endOffset": 4244
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 566,
+                        "startOffset": 555,
                         "endColumn": 57,
-                        "endOffset": 619
+                        "endOffset": 608
                     }
                 }
             },
@@ -352,13 +352,13 @@
                     "endOffset": 4300
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 923,
+                        "startOffset": 906,
                         "endColumn": 55,
-                        "endOffset": 974
+                        "endOffset": 957
                     }
                 }
             },
@@ -371,13 +371,13 @@
                     "endOffset": 4363
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 686,
+                        "startOffset": 673,
                         "endColumn": 62,
-                        "endOffset": 744
+                        "endOffset": 731
                     }
                 }
             },
@@ -390,13 +390,13 @@
                     "endOffset": 4423
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 625,
+                        "startOffset": 613,
                         "endColumn": 59,
-                        "endOffset": 680
+                        "endOffset": 668
                     }
                 }
             },
@@ -409,13 +409,13 @@
                     "endOffset": 4486
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 617,
+                        "startOffset": 604,
                         "endColumn": 62,
-                        "endOffset": 675
+                        "endOffset": 662
                     }
                 }
             },
@@ -428,13 +428,13 @@
                     "endOffset": 4549
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 625,
+                        "startOffset": 612,
                         "endColumn": 62,
-                        "endOffset": 683
+                        "endOffset": 670
                     }
                 }
             },
@@ -447,13 +447,13 @@
                     "endOffset": 4606
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 750,
+                        "startOffset": 736,
                         "endColumn": 56,
-                        "endOffset": 802
+                        "endOffset": 788
                     }
                 }
             },
@@ -466,13 +466,13 @@
                     "endOffset": 4660
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 868,
+                        "startOffset": 852,
                         "endColumn": 53,
-                        "endOffset": 917
+                        "endOffset": 901
                     }
                 }
             },
@@ -485,13 +485,13 @@
                     "endOffset": 4719
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 808,
+                        "startOffset": 793,
                         "endColumn": 58,
-                        "endOffset": 862
+                        "endOffset": 847
                     }
                 }
             },
@@ -504,7 +504,7 @@
                     "endOffset": 4782
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -523,13 +523,13 @@
                     "endOffset": 4845
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 621,
+                        "startOffset": 608,
                         "endColumn": 62,
-                        "endOffset": 679
+                        "endOffset": 666
                     }
                 }
             },
@@ -542,13 +542,13 @@
                     "endOffset": 4908
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 638,
+                        "startOffset": 625,
                         "endColumn": 62,
-                        "endOffset": 696
+                        "endOffset": 683
                     }
                 }
             },
@@ -561,13 +561,13 @@
                     "endOffset": 4977
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 638,
+                        "startOffset": 625,
                         "endColumn": 68,
-                        "endOffset": 702
+                        "endOffset": 689
                     }
                 }
             },
@@ -580,7 +580,7 @@
                     "endOffset": 5119
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -599,7 +599,7 @@
                     "endOffset": 5165
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -618,7 +618,7 @@
                     "endOffset": 5223
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -637,7 +637,7 @@
                     "endOffset": 5270
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -656,7 +656,7 @@
                     "endOffset": 5321
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -675,7 +675,7 @@
                     "endOffset": 5378
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -694,7 +694,7 @@
                     "endOffset": 5427
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -713,7 +713,7 @@
                     "endOffset": 5468
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -732,7 +732,7 @@
                     "endOffset": 5529
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -751,7 +751,7 @@
                     "endOffset": 5590
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -771,14 +771,14 @@
                     "endOffset": 5959
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1379,
+                        "startOffset": 1348,
                         "endLine": 33,
                         "endColumn": 62,
-                        "endOffset": 1745
+                        "endOffset": 1712
                     }
                 }
             },
@@ -791,13 +791,13 @@
                     "endOffset": 6016
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1315,
+                        "startOffset": 1286,
                         "endColumn": 56,
-                        "endOffset": 1367
+                        "endOffset": 1338
                     }
                 }
             },
@@ -810,13 +810,13 @@
                     "endOffset": 6068
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 804,
+                        "startOffset": 787,
                         "endColumn": 51,
-                        "endOffset": 851
+                        "endOffset": 834
                     }
                 }
             },
@@ -829,13 +829,13 @@
                     "endOffset": 6118
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 483,
                         "endColumn": 49,
-                        "endOffset": 538
+                        "endOffset": 528
                     }
                 }
             },
@@ -848,13 +848,13 @@
                     "endOffset": 6184
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 550,
+                        "startOffset": 538,
                         "endColumn": 65,
-                        "endOffset": 611
+                        "endOffset": 599
                     }
                 }
             },
@@ -867,13 +867,13 @@
                     "endOffset": 6232
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 857,
+                        "startOffset": 839,
                         "endColumn": 47,
-                        "endOffset": 900
+                        "endOffset": 882
                     }
                 }
             },
@@ -886,13 +886,13 @@
                     "endOffset": 6276
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1071,
+                        "startOffset": 1048,
                         "endColumn": 43,
-                        "endOffset": 1110
+                        "endOffset": 1087
                     }
                 }
             },
@@ -905,13 +905,13 @@
                     "endOffset": 6341
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 687,
+                        "startOffset": 672,
                         "endColumn": 64,
-                        "endOffset": 747
+                        "endOffset": 732
                     }
                 }
             },
@@ -924,13 +924,13 @@
                     "endOffset": 6405
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1006,
+                        "startOffset": 984,
                         "endColumn": 63,
-                        "endOffset": 1065
+                        "endOffset": 1043
                     }
                 }
             },
@@ -943,13 +943,13 @@
                     "endOffset": 6478
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1168,
+                        "startOffset": 1142,
                         "endColumn": 72,
-                        "endOffset": 1236
+                        "endOffset": 1210
                     }
                 }
             },
@@ -962,13 +962,13 @@
                     "endOffset": 6528
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 753,
+                        "startOffset": 737,
                         "endColumn": 49,
-                        "endOffset": 798
+                        "endOffset": 782
                     }
                 }
             },
@@ -981,13 +981,13 @@
                     "endOffset": 6594
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1242,
+                        "startOffset": 1215,
                         "endColumn": 65,
-                        "endOffset": 1303
+                        "endOffset": 1276
                     }
                 }
             },
@@ -1000,13 +1000,13 @@
                     "endOffset": 6639
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1116,
+                        "startOffset": 1092,
                         "endColumn": 44,
-                        "endOffset": 1156
+                        "endOffset": 1132
                     }
                 }
             },
@@ -1019,13 +1019,13 @@
                     "endOffset": 6684
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 954,
+                        "startOffset": 934,
                         "endColumn": 44,
-                        "endOffset": 994
+                        "endOffset": 974
                     }
                 }
             },
@@ -1038,13 +1038,13 @@
                     "endOffset": 6731
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_bpm.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 906,
+                        "startOffset": 887,
                         "endColumn": 46,
-                        "endOffset": 948
+                        "endOffset": 929
                     }
                 }
             },
@@ -1058,14 +1058,14 @@
                     "endOffset": 7140
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
-                        "startOffset": 3852,
+                        "startOffset": 3787,
                         "endLine": 67,
                         "endColumn": 79,
-                        "endOffset": 4258
+                        "endOffset": 4191
                     }
                 }
             },
@@ -1078,13 +1078,13 @@
                     "endOffset": 7203
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1468,
+                        "startOffset": 1440,
                         "endColumn": 62,
-                        "endOffset": 1526
+                        "endOffset": 1498
                     }
                 }
             },
@@ -1097,13 +1097,13 @@
                     "endOffset": 7256
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
-                        "startOffset": 2400,
+                        "startOffset": 2354,
                         "endColumn": 52,
-                        "endOffset": 2448
+                        "endOffset": 2402
                     }
                 }
             },
@@ -1116,13 +1116,13 @@
                     "endOffset": 7316
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 2509,
+                        "startOffset": 2461,
                         "endColumn": 59,
-                        "endOffset": 2564
+                        "endOffset": 2516
                     }
                 }
             },
@@ -1135,13 +1135,13 @@
                     "endOffset": 7370
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
-                        "startOffset": 2454,
+                        "startOffset": 2407,
                         "endColumn": 53,
-                        "endOffset": 2503
+                        "endOffset": 2456
                     }
                 }
             },
@@ -1154,13 +1154,13 @@
                     "endOffset": 7523
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1621,
+                        "startOffset": 1590,
                         "endColumn": 152,
-                        "endOffset": 1769
+                        "endOffset": 1738
                     }
                 }
             },
@@ -1173,13 +1173,13 @@
                     "endOffset": 7605
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1538,
+                        "startOffset": 1508,
                         "endColumn": 81,
-                        "endOffset": 1615
+                        "endOffset": 1585
                     }
                 }
             },
@@ -1192,13 +1192,13 @@
                     "endOffset": 7692
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
-                        "startOffset": 2903,
+                        "startOffset": 2848,
                         "endColumn": 86,
-                        "endOffset": 2985
+                        "endOffset": 2930
                     }
                 }
             },
@@ -1211,13 +1211,13 @@
                     "endOffset": 7772
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 2822,
+                        "startOffset": 2768,
                         "endColumn": 79,
-                        "endOffset": 2897
+                        "endOffset": 2843
                     }
                 }
             },
@@ -1230,13 +1230,13 @@
                     "endOffset": 7829
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 2764,
+                        "startOffset": 2711,
                         "endColumn": 56,
-                        "endOffset": 2816
+                        "endOffset": 2763
                     }
                 }
             },
@@ -1249,13 +1249,13 @@
                     "endOffset": 7944
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 695,
+                        "startOffset": 680,
                         "endColumn": 114,
-                        "endOffset": 805
+                        "endOffset": 790
                     }
                 }
             },
@@ -1268,13 +1268,13 @@
                     "endOffset": 7994
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 483,
                         "endColumn": 49,
-                        "endOffset": 538
+                        "endOffset": 528
                     }
                 }
             },
@@ -1287,13 +1287,13 @@
                     "endOffset": 8068
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 550,
+                        "startOffset": 538,
                         "endColumn": 73,
-                        "endOffset": 619
+                        "endOffset": 607
                     }
                 }
             },
@@ -1306,13 +1306,13 @@
                     "endOffset": 8127
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 889,
+                        "startOffset": 871,
                         "endColumn": 58,
-                        "endOffset": 943
+                        "endOffset": 925
                     }
                 }
             },
@@ -1325,13 +1325,13 @@
                     "endOffset": 8186
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1009,
+                        "startOffset": 989,
                         "endColumn": 58,
-                        "endOffset": 1063
+                        "endOffset": 1043
                     }
                 }
             },
@@ -1344,13 +1344,13 @@
                     "endOffset": 8242
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1128,
+                        "startOffset": 1106,
                         "endColumn": 55,
-                        "endOffset": 1179
+                        "endOffset": 1157
                     }
                 }
             },
@@ -1363,13 +1363,13 @@
                     "endOffset": 8307
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1305,
+                        "startOffset": 1280,
                         "endColumn": 64,
-                        "endOffset": 1365
+                        "endOffset": 1340
                     }
                 }
             },
@@ -1382,13 +1382,13 @@
                     "endOffset": 8397
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1371,
+                        "startOffset": 1345,
                         "endColumn": 89,
-                        "endOffset": 1456
+                        "endOffset": 1430
                     }
                 }
             },
@@ -1401,13 +1401,13 @@
                     "endOffset": 8455
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1069,
+                        "startOffset": 1048,
                         "endColumn": 57,
-                        "endOffset": 1122
+                        "endOffset": 1101
                     }
                 }
             },
@@ -1420,13 +1420,13 @@
                     "endOffset": 8523
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1236,
+                        "startOffset": 1212,
                         "endColumn": 67,
-                        "endOffset": 1299
+                        "endOffset": 1275
                     }
                 }
             },
@@ -1439,13 +1439,13 @@
                     "endOffset": 8573
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1185,
+                        "startOffset": 1162,
                         "endColumn": 49,
-                        "endOffset": 1230
+                        "endOffset": 1207
                     }
                 }
             },
@@ -1458,13 +1458,13 @@
                     "endOffset": 8632
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 949,
+                        "startOffset": 930,
                         "endColumn": 58,
-                        "endOffset": 1003
+                        "endOffset": 984
                     }
                 }
             },
@@ -1478,14 +1478,14 @@
                     "endOffset": 9327
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
-                        "startOffset": 3146,
+                        "startOffset": 3087,
                         "endLine": 63,
                         "endColumn": 157,
-                        "endOffset": 3840
+                        "endOffset": 3777
                     }
                 }
             },
@@ -1498,13 +1498,13 @@
                     "endOffset": 9382
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 3090,
+                        "startOffset": 3032,
                         "endColumn": 54,
-                        "endOffset": 3140
+                        "endOffset": 3082
                     }
                 }
             },
@@ -1517,13 +1517,13 @@
                     "endOffset": 9453
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 817,
+                        "startOffset": 800,
                         "endColumn": 70,
-                        "endOffset": 883
+                        "endOffset": 866
                     }
                 }
             },
@@ -1536,13 +1536,13 @@
                     "endOffset": 9527
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
-                        "startOffset": 2325,
+                        "startOffset": 2280,
                         "endColumn": 73,
-                        "endOffset": 2394
+                        "endOffset": 2349
                     }
                 }
             },
@@ -1555,13 +1555,13 @@
                     "endOffset": 9619
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 2991,
+                        "startOffset": 2935,
                         "endColumn": 91,
-                        "endOffset": 3078
+                        "endOffset": 3022
                     }
                 }
             },
@@ -1574,13 +1574,13 @@
                     "endOffset": 9678
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 2576,
+                        "startOffset": 2526,
                         "endColumn": 64,
-                        "endOffset": 2636
+                        "endOffset": 2586
                     }
                 }
             },
@@ -1593,13 +1593,13 @@
                     "endOffset": 9736
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 2705,
+                        "startOffset": 2653,
                         "endColumn": 57,
-                        "endOffset": 2758
+                        "endOffset": 2706
                     }
                 }
             },
@@ -1612,13 +1612,13 @@
                     "endOffset": 9798
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_dfu.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
-                        "startOffset": 2642,
+                        "startOffset": 2591,
                         "endColumn": 61,
-                        "endOffset": 2699
+                        "endOffset": 2648
                     }
                 }
             },
@@ -1631,7 +1631,7 @@
                     "endOffset": 9845
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1650,7 +1650,7 @@
                     "endOffset": 9890
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1669,7 +1669,7 @@
                     "endOffset": 9961
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1688,7 +1688,7 @@
                     "endOffset": 10012
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1707,7 +1707,7 @@
                     "endOffset": 10069
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1727,7 +1727,7 @@
                     "endOffset": 10458
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 144,
                         "startColumn": 4,
@@ -1747,7 +1747,7 @@
                     "endOffset": 10509
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1766,7 +1766,7 @@
                     "endOffset": 10556
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1785,7 +1785,7 @@
                     "endOffset": 10607
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1804,7 +1804,7 @@
                     "endOffset": 10668
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -1823,7 +1823,7 @@
                     "endOffset": 10719
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1842,7 +1842,7 @@
                     "endOffset": 10768
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1861,7 +1861,7 @@
                     "endOffset": 10817
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1880,7 +1880,7 @@
                     "endOffset": 10872
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1899,7 +1899,7 @@
                     "endOffset": 10944
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -1918,7 +1918,7 @@
                     "endOffset": 11004
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
@@ -1937,7 +1937,7 @@
                     "endOffset": 11060
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
@@ -1956,7 +1956,7 @@
                     "endOffset": 11120
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 4,
@@ -1975,7 +1975,7 @@
                     "endOffset": 11177
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1994,7 +1994,7 @@
                     "endOffset": 11227
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2013,7 +2013,7 @@
                     "endOffset": 11294
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -2032,7 +2032,7 @@
                     "endOffset": 11357
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -2051,7 +2051,7 @@
                     "endOffset": 11418
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2070,7 +2070,7 @@
                     "endOffset": 11484
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 139,
                         "startColumn": 4,
@@ -2089,7 +2089,7 @@
                     "endOffset": 11578
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 138,
                         "startColumn": 4,
@@ -2108,7 +2108,7 @@
                     "endOffset": 11642
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 4,
@@ -2127,7 +2127,7 @@
                     "endOffset": 11698
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -2146,7 +2146,7 @@
                     "endOffset": 11752
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2165,7 +2165,7 @@
                     "endOffset": 11838
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -2184,7 +2184,7 @@
                     "endOffset": 11907
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -2203,7 +2203,7 @@
                     "endOffset": 11956
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 141,
                         "startColumn": 4,
@@ -2222,7 +2222,7 @@
                     "endOffset": 12007
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 142,
                         "startColumn": 4,
@@ -2241,7 +2241,7 @@
                     "endOffset": 12050
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_gls.xml",
                     "position": {
                         "startLine": 140,
                         "startColumn": 4,
@@ -2261,14 +2261,14 @@
                     "endOffset": 12286
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 867,
+                        "startOffset": 848,
                         "endLine": 20,
                         "endColumn": 104,
-                        "endOffset": 1099
+                        "endOffset": 1079
                     }
                 }
             },
@@ -2281,13 +2281,13 @@
                     "endOffset": 12343
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 691,
+                        "startOffset": 676,
                         "endColumn": 56,
-                        "endOffset": 743
+                        "endOffset": 728
                     }
                 }
             },
@@ -2300,13 +2300,13 @@
                     "endOffset": 12393
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 483,
                         "endColumn": 49,
-                        "endOffset": 538
+                        "endOffset": 528
                     }
                 }
             },
@@ -2319,13 +2319,13 @@
                     "endOffset": 12463
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 550,
+                        "startOffset": 538,
                         "endColumn": 69,
-                        "endOffset": 615
+                        "endOffset": 603
                     }
                 }
             },
@@ -2338,13 +2338,13 @@
                     "endOffset": 12526
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 797,
+                        "startOffset": 780,
                         "endColumn": 62,
-                        "endOffset": 855
+                        "endOffset": 838
                     }
                 }
             },
@@ -2357,13 +2357,13 @@
                     "endOffset": 12573
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hrs.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 749,
+                        "startOffset": 733,
                         "endColumn": 46,
-                        "endOffset": 791
+                        "endOffset": 775
                     }
                 }
             },
@@ -2376,13 +2376,13 @@
                     "endOffset": 12654
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 875,
+                        "startOffset": 856,
                         "endColumn": 80,
-                        "endOffset": 951
+                        "endOffset": 932
                     }
                 }
             },
@@ -2395,13 +2395,13 @@
                     "endOffset": 12721
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1109,
+                        "startOffset": 1087,
                         "endColumn": 66,
-                        "endOffset": 1171
+                        "endOffset": 1149
                     }
                 }
             },
@@ -2414,13 +2414,13 @@
                     "endOffset": 12778
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 708,
+                        "startOffset": 693,
                         "endColumn": 56,
-                        "endOffset": 760
+                        "endOffset": 745
                     }
                 }
             },
@@ -2433,13 +2433,13 @@
                     "endOffset": 12836
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 483,
                         "endColumn": 57,
-                        "endOffset": 546
+                        "endOffset": 536
                     }
                 }
             },
@@ -2452,13 +2452,13 @@
                     "endOffset": 12915
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 558,
+                        "startOffset": 546,
                         "endColumn": 78,
-                        "endOffset": 632
+                        "endOffset": 620
                     }
                 }
             },
@@ -2471,13 +2471,13 @@
                     "endOffset": 13014
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 957,
+                        "startOffset": 937,
                         "endColumn": 98,
-                        "endOffset": 1051
+                        "endOffset": 1031
                     }
                 }
             },
@@ -2490,13 +2490,13 @@
                     "endOffset": 13065
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1057,
+                        "startOffset": 1036,
                         "endColumn": 50,
-                        "endOffset": 1103
+                        "endOffset": 1082
                     }
                 }
             },
@@ -2509,13 +2509,13 @@
                     "endOffset": 13113
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 766,
+                        "startOffset": 750,
                         "endColumn": 47,
-                        "endOffset": 809
+                        "endOffset": 793
                     }
                 }
             },
@@ -2528,13 +2528,13 @@
                     "endOffset": 13162
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_hts.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 819,
+                        "startOffset": 802,
                         "endColumn": 48,
-                        "endOffset": 863
+                        "endOffset": 846
                     }
                 }
             },
@@ -2547,7 +2547,7 @@
                     "endOffset": 13217
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -2566,7 +2566,7 @@
                     "endOffset": 13286
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -2585,7 +2585,7 @@
                     "endOffset": 13348
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -2604,7 +2604,7 @@
                     "endOffset": 13394
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -2623,7 +2623,7 @@
                     "endOffset": 13448
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -2642,7 +2642,7 @@
                     "endOffset": 13533
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -2661,7 +2661,7 @@
                     "endOffset": 13657
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2680,7 +2680,7 @@
                     "endOffset": 13725
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -2700,14 +2700,14 @@
                     "endOffset": 14140
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1252,
+                        "startOffset": 1229,
                         "endLine": 25,
                         "endColumn": 137,
-                        "endOffset": 1664
+                        "endOffset": 1639
                     }
                 }
             },
@@ -2720,13 +2720,13 @@
                     "endOffset": 14199
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 790,
+                        "startOffset": 774,
                         "endColumn": 58,
-                        "endOffset": 844
+                        "endOffset": 828
                     }
                 }
             },
@@ -2739,13 +2739,13 @@
                     "endOffset": 14262
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 850,
+                        "startOffset": 833,
                         "endColumn": 62,
-                        "endOffset": 908
+                        "endOffset": 891
                     }
                 }
             },
@@ -2758,13 +2758,13 @@
                     "endOffset": 14331
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 714,
+                        "startOffset": 699,
                         "endColumn": 68,
-                        "endOffset": 778
+                        "endOffset": 763
                     }
                 }
             },
@@ -2777,13 +2777,13 @@
                     "endOffset": 14393
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 483,
                         "endColumn": 61,
-                        "endOffset": 550
+                        "endOffset": 540
                     }
                 }
             },
@@ -2796,13 +2796,13 @@
                     "endOffset": 14468
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 562,
+                        "startOffset": 550,
                         "endColumn": 74,
-                        "endOffset": 632
+                        "endOffset": 620
                     }
                 }
             },
@@ -2815,13 +2815,13 @@
                     "endOffset": 14540
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 914,
+                        "startOffset": 896,
                         "endColumn": 71,
-                        "endOffset": 981
+                        "endOffset": 963
                     }
                 }
             },
@@ -2834,13 +2834,13 @@
                     "endOffset": 14620
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 990,
+                        "startOffset": 971,
                         "endColumn": 79,
-                        "endOffset": 1065
+                        "endOffset": 1046
                     }
                 }
             },
@@ -2853,13 +2853,13 @@
                     "endOffset": 14706
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1159,
+                        "startOffset": 1138,
                         "endColumn": 85,
-                        "endOffset": 1240
+                        "endOffset": 1219
                     }
                 }
             },
@@ -2872,13 +2872,13 @@
                     "endOffset": 14792
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings_proximity.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1072,
+                        "startOffset": 1052,
                         "endColumn": 85,
-                        "endOffset": 1153
+                        "endOffset": 1133
                     }
                 }
             },
@@ -2891,7 +2891,7 @@
                     "endOffset": 14849
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -2910,7 +2910,7 @@
                     "endOffset": 14902
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -2929,7 +2929,7 @@
                     "endOffset": 14960
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -2948,7 +2948,7 @@
                     "endOffset": 15036
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -2967,7 +2967,7 @@
                     "endOffset": 15104
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -2986,7 +2986,7 @@
                     "endOffset": 15161
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -3006,14 +3006,14 @@
                     "endOffset": 15808
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 2432,
+                        "startOffset": 2376,
                         "endLine": 64,
                         "endColumn": 12,
-                        "endOffset": 3082
+                        "endOffset": 3018
                     }
                 }
             },
@@ -3027,14 +3027,14 @@
                     "endOffset": 15975
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
-                        "startOffset": 3758,
+                        "startOffset": 3682,
                         "endLine": 78,
                         "endColumn": 12,
-                        "endOffset": 3922
+                        "endOffset": 3844
                     }
                 }
             },
@@ -3048,14 +3048,14 @@
                     "endOffset": 16624
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 8,
-                        "startOffset": 3098,
+                        "startOffset": 3032,
                         "endLine": 74,
                         "endColumn": 12,
-                        "endOffset": 3750
+                        "endOffset": 3676
                     }
                 }
             },
@@ -3069,14 +3069,14 @@
                     "endOffset": 16772
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
-                        "startOffset": 2083,
+                        "startOffset": 2038,
                         "endLine": 48,
                         "endColumn": 12,
-                        "endOffset": 2229
+                        "endOffset": 2181
                     }
                 }
             },
@@ -3090,14 +3090,14 @@
                     "endOffset": 16928
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 2237,
+                        "startOffset": 2187,
                         "endLine": 53,
                         "endColumn": 12,
-                        "endOffset": 2391
+                        "endOffset": 2338
                     }
                 }
             },
@@ -3110,13 +3110,13 @@
                     "endOffset": 16955
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 514,
+                        "startOffset": 504,
                         "endColumn": 27,
-                        "endOffset": 537
+                        "endOffset": 527
                     }
                 }
             },
@@ -3130,14 +3130,14 @@
                     "endOffset": 17367
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 545,
+                        "startOffset": 533,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 957
+                        "endOffset": 940
                     }
                 }
             },
@@ -3151,14 +3151,14 @@
                     "endOffset": 17560
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 965,
+                        "startOffset": 946,
                         "endLine": 21,
                         "endColumn": 12,
-                        "endOffset": 1155
+                        "endOffset": 1134
                     }
                 }
             },
@@ -3172,14 +3172,14 @@
                     "endOffset": 17707
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1602,
+                        "startOffset": 1568,
                         "endLine": 36,
                         "endColumn": 12,
-                        "endOffset": 1746
+                        "endOffset": 1710
                     }
                 }
             },
@@ -3193,14 +3193,14 @@
                     "endOffset": 18028
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 1754,
+                        "startOffset": 1716,
                         "endLine": 43,
                         "endColumn": 12,
-                        "endOffset": 2075
+                        "endOffset": 2032
                     }
                 }
             },
@@ -3214,14 +3214,14 @@
                     "endOffset": 18273
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1163,
+                        "startOffset": 1140,
                         "endLine": 27,
                         "endColumn": 12,
-                        "endOffset": 1407
+                        "endOffset": 1380
                     }
                 }
             },
@@ -3235,14 +3235,14 @@
                     "endOffset": 18454
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1415,
+                        "startOffset": 1386,
                         "endLine": 32,
                         "endColumn": 12,
-                        "endOffset": 1594
+                        "endOffset": 1562
                     }
                 }
             }

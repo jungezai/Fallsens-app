@@ -1,90 +1,90 @@
 [
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_features.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_features.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_hrs.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_hrs.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_gls.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_file_browser_item.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\app_file_browser_item.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_icon.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\feature_icon.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_hts_myself.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_hts_myself.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_bpm.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_bpm.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_file_browser_item.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\app_file_browser_item.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_proximity.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_proximity.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_row.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\device_list_row.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_plugin.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\drawer_plugin.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_bpm.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_bpm.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls_subitem.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_gls_subitem.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_data_history.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\fragment_data_history.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls_item.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_gls_item.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_file_browser.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\app_file_browser.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\drawer.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\drawer.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_hts.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_hts.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_features.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_features.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_title.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\device_list_title.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_title.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\device_list_title.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_gls.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_empty.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\device_list_empty.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_dfu.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_dfu.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_hrs.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_hrs.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_empty.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\device_list_empty.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls_subitem.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_gls_subitem.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_device_selection.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\fragment_device_selection.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_device_selection.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\fragment_device_selection.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_row.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\device_list_row.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_featurn_calibrate.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_featurn_calibrate.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_file_browser.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\app_file_browser.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_hts.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_hts.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_data_history.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\fragment_data_history.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_proximity.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_proximity.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_icon.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\feature_icon.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_plugin.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\drawer_plugin.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_featurn_calibrate.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_featurn_calibrate.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls_item.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_gls_item.xml"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_hts_myself.xml",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_hts_myself.xml"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_dfu.xml",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\layout\\activity_feature_dfu.xml"
     }
 ]

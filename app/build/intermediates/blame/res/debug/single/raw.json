@@ -1,30 +1,30 @@
 [
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_rscs.hex",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\raw\\ble_app_rscs.hex"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\reconnectedwiththeppscout.wav",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\raw\\reconnectedwiththeppscout.wav"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs.hex",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\raw\\ble_app_hrs.hex"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs.hex",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\raw\\ble_app_hrs.hex"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\reconnectedwiththeppscout.wav",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\raw\\reconnectedwiththeppscout.wav"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miss_you.mp3",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\raw\\miss_you.mp3"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\connectwithppscout.wav",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\raw\\connectwithppscout.wav"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\connectwithppscout.wav",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\raw\\connectwithppscout.wav"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\youhavelostyourbaby.wav",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\raw\\youhavelostyourbaby.wav"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\youhavelostyourbaby.wav",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\raw\\youhavelostyourbaby.wav"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yourbabyneedsyourhelp.wav",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\raw\\yourbabyneedsyourhelp.wav"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_rscs.hex",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\raw\\ble_app_rscs.hex"
     },
     {
-        "merged": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miss_you.mp3",
-        "source": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\raw\\miss_you.mp3"
+        "merged": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yourbabyneedsyourhelp.wav",
+        "source": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\raw\\yourbabyneedsyourhelp.wav"
     }
 ]

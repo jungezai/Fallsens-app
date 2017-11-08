@@ -47,22 +47,22 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="activity_feature_hts_myself.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_hts_myself.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="646">
+            <state relative-caret-position="714">
               <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
               <folding />
             </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="HTSActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/HTSActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+            <state relative-caret-position="71">
+              <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,8 +73,8 @@
       <file leaf-file-name="publicDATA.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/publicDATA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="357">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -83,8 +83,8 @@
       <file leaf-file-name="HTSManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/HTSManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5852">
-              <caret line="351" column="26" selection-start-line="351" selection-start-column="26" selection-end-line="351" selection-end-column="26" />
+            <state relative-caret-position="394">
+              <caret line="378" column="39" selection-start-line="378" selection-start-column="39" selection-end-line="378" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -93,9 +93,22 @@
       <file leaf-file-name="HRSActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hrs/HRSActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2337">
+            <state relative-caret-position="2583">
               <caret line="148" column="31" selection-start-line="148" selection-start-column="31" selection-end-line="148" selection-end-column="31" />
-              <folding />
+              <folding>
+                <element signature="e#0#586#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#3241#3242#0" expanded="false" />
+                <element signature="e#3278#3279#0" expanded="false" />
+                <element signature="e#3330#3331#0" expanded="false" />
+                <element signature="e#3369#3370#0" expanded="false" />
+                <element signature="e#3415#3416#0" expanded="false" />
+                <element signature="e#3455#3456#0" expanded="false" />
+                <element signature="e#5082#5083#0" expanded="false" />
+                <element signature="e#5119#5120#0" expanded="false" />
+                <element signature="e#5172#5173#0" expanded="false" />
+                <element signature="e#5195#5196#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,7 +133,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\huangxu\.gradle\wrapper\dists\gradle-3.3-all\55gk2rcmfc6p2dg9u9ohc3hw9\gradle-3.3" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\cfx\.gradle\wrapper\dists\gradle-3.3-all\55gk2rcmfc6p2dg9u9ohc3hw9\gradle-3.3" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -1450,6 +1463,7 @@
       <map>
         <entry key="D:\Android\Android-nRF-UART-master\nRFToolbox_save_consit_data" value="4528782850238" />
         <entry key="D:\bitbusket\fallsens\fallsens_app" value="4528782850238" />
+        <entry key="E:\Gitsource\fallsens_app" value="4530314520495" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1801,15 +1815,15 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_feature_hts_myself.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/publicDATA.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/HTSManager.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/HTSActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/HTSManager.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1808" />
+    <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -1843,6 +1857,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane />
       </pane>
@@ -1867,7 +1882,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1877,7 +1891,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="device.picker.selection" value="a09b8eed" />
+    <property name="device.picker.selection" value="IJW4WCNRCQBYVSIB" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ExportApk.ApkPath" value="D:\Android\Android-nRF-UART-master\nRFToolbox_save_consit_data\app" />
     <property name="ExportApk.Flavors" value="" />
@@ -2219,17 +2233,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1808" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2767094" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27564102" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16221985" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16115262" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45405984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2276,13 +2290,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_proximity.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/profile/BleProfileServiceReadyActivity.java">
@@ -2377,53 +2391,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/help.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/gls_more.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_gls.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_dfu.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_bpm.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/proximity/ProximityService.java">
@@ -2434,33 +2448,33 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_hrs.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_gls_subitem.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_gls_item.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_calibrate.xml" />
@@ -2474,13 +2488,13 @@
     </entry>
     <entry file="jar://D:/Android_SDK/platforms/android-18/android.jar!/android/widget/TextView.class" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_featurn_calibrate.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/bpm/BPMActivity.java">
@@ -2590,64 +2604,77 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_hts.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_feature_hts.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hrs/HRSActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2337">
+        <state relative-caret-position="2583">
           <caret line="148" column="31" selection-start-line="148" selection-start-column="31" selection-end-line="148" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="e#0#586#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3241#3242#0" expanded="false" />
+            <element signature="e#3278#3279#0" expanded="false" />
+            <element signature="e#3330#3331#0" expanded="false" />
+            <element signature="e#3369#3370#0" expanded="false" />
+            <element signature="e#3415#3416#0" expanded="false" />
+            <element signature="e#3455#3456#0" expanded="false" />
+            <element signature="e#5082#5083#0" expanded="false" />
+            <element signature="e#5119#5120#0" expanded="false" />
+            <element signature="e#5172#5173#0" expanded="false" />
+            <element signature="e#5195#5196#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feature_hts_myself.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="714">
           <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/publicDATA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="357">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/HTSManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5852">
-          <caret line="351" column="26" selection-start-line="351" selection-start-column="26" selection-end-line="351" selection-end-column="26" />
+        <state relative-caret-position="394">
+          <caret line="378" column="39" selection-start-line="378" selection-start-column="39" selection-end-line="378" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/no/nordicsemi/android/nrftoolbox/hts/HTSActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+        <state relative-caret-position="71">
+          <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

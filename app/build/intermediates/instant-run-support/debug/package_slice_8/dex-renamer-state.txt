@@ -1,4 +1,0 @@
-#Mon Nov 06 19:05:28 CST 2017
-base.0=D\:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
-renamed.0=classes.dex
-file.0=D\:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

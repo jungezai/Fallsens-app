@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dfu_app_file_browser">
+        <item>Drive</item>
+        <item>File Manager</item>
+        <item>Total Commander</item>
+        <item>Search for others</item>
+    </string-array>
+    <string-array name="dfu_app_file_browser_action">
+        <item>market://details?id=com.google.android.apps.docs</item>
+        <item>market://details?id=com.rhmsoft.fm</item>
+        <item>market://details?id=com.ghisler.android.TotalCommander</item>
+        <item>market://search?q=file manager</item>
+    </string-array>
+    <string-array name="gls_context_carbohydrare">
+        <item>Reserved for future use</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+        <item>Drink</item>
+        <item>Supper</item>
+        <item>Brunch</item>
+    </string-array>
+    <string-array name="gls_context_health">
+        <item>Reserved for future use</item>
+        <item>Minor health issues</item>
+        <item>Major health issues</item>
+        <item>During menses</item>
+        <item>Under stress</item>
+        <item>No health issues</item>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item>Health value not available</item>
+    </string-array>
+    <string-array name="gls_context_meal">
+        <item>Reserved for future use</item>
+        <item>Preprandial (before meal)</item>
+        <item>Postprandial (after meal)</item>
+        <item>Fasting</item>
+        <item>Casual (snacks, drinks, etc.)</item>
+        <item>Bedtime</item>
+    </string-array>
+    <string-array name="gls_context_tester">
+        <item>Reserved for future use</item>
+        <item>Self</item>
+        <item>Health Care Professional</item>
+        <item>Lab test</item>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+        <item>Tester value not available</item>
+    </string-array>
+    <string-array name="gls_location">
+        <item>Reserved for future use</item>
+		<item>Finger</item>
+		<item>Alternate Site Test (AST)</item>
+		<item>Earlobe</item>
+		<item>Control solution</item>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item/>
+		<item>Sample Location value not available</item>
+    </string-array>
+    <string-array name="gls_status_annunciatioin">
+        <item>Device battery low at time of measurement</item>
+	    <item>Sensor malfunction or faulting at time of measurement</item>
+	    <item>Sample size for blood or control solution insufficient at time of measurement</item>
+	    <item>Strip insertion error</item>
+	    <item>Strip type incorrect for device</item>
+	    <item>Sensor result higher than the device can process</item>
+	    <item>Sensor result lower than the device can process</item>
+	    <item>Sensor temperature too high for valid test/result at time of measurement</item>
+	    <item>Sensor temperature too low for valid test/result at time of measurement</item>
+	    <item>Sensor read interrupted because strip was pulled too soon at time of measurement</item>
+	    <item>General device fault has occurred in the sensor</item>
+	    <item>Time fault has occurred in the sensor and time may be inaccurate</item>
+    </string-array>
+    <string-array name="gls_type">
+        <item>Reserved for future use</item>
+        <item>Capillary Whole blood</item>
+        <item>Capillary Plasma</item>
+        <item>Venous Whole blood</item>
+        <item>Venous Plasma</item>
+        <item>Arterial Whole blood</item>
+        <item>Arterial Plasma</item>
+        <item>Undetermined Whole blood</item>
+        <item>Undetermined Plasma</item>
+        <item>Interstitial Fluid (ISF)</item>
+        <item>Control Solution</item>
+    </string-array>
+    <color name="actionBarColor">#009cde</color>
+    <color name="backgroundColor">#e6e7e8</color>
+    <color name="darkGray">#AAABAF</color>
+    <color name="dividerColor">#BBBDC0</color>
+    <color name="featureTitleColor">#939597</color>
+    <color name="headerBackgroundColor">#009ada</color>
+    <color name="headerTextColor">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin_bottom">32dp</dimen>
+    <dimen name="activity_vertical_margin_top">16dp</dimen>
+    <dimen name="bpm_feature_title_long_margin">-115dp</dimen>
+    <dimen name="dfu_feature_title_long_margin">-186dp</dimen>
+    <dimen name="feature_horizontal_margin">50dp</dimen>
+    <dimen name="feature_section_padding">8dp</dimen>
+    <dimen name="feature_vertical_margin_top">50dp</dimen>
+    <dimen name="gls_feature_title_long_margin">-118dp</dimen>
+    <dimen name="hrs_feature_title_long_margin">-152dp</dimen>
+    <dimen name="hts_feature_title_long_margin">-236dp</dimen>
+    <dimen name="proximity_feature_title_long_margin">-142dp</dimen>
+    <string name="about_text">The nRF Toolbox is a container application that stores your Nordic Semiconductor apps in one location.</string>
+    <string name="about_title">About</string>
+    <string name="about_version">\n\nVersion: %s</string>
+    <string name="action_about">About</string>
+    <string name="action_connect">CONNECT</string>
+    <string name="action_disconnect">DISCONNECT</string>
+    <string name="app_name">CFX PPscout</string>
+    <string name="battery">%d%%</string>
+    <string name="bonded">The device is now bonded.</string>
+    <string name="bonding">Bonding with the device…</string>
+    <string name="bpm_about_text">BPM (Blood Pressure Monitor) profile allows you to connect to your Blood Pressure device. 
+        It supports the cuff pressure notifications and displays systolic, diastolic and mean arterial pulse values as well as the pulse after blood pressure reading is completed. 
+        The implementation supports bondable devices.</string>
+    <string name="bpm_default_name">DEFAULT BPM</string>
+    <string name="bpm_diastolic">DIASTOLIC</string>
+    <string name="bpm_feature_title">BPM</string>
+    <string name="bpm_feature_title_long">BLOOD PRESSURE</string>
+    <string name="bpm_mean_ap">MEAN AP</string>
+    <string name="bpm_pulse">PULSE</string>
+    <string name="bpm_section_bp_header">BLOOD PRESSURE</string>
+    <string name="bpm_section_pulse_header">PULSE RATE</string>
+    <string name="bpm_section_timestamp_header">TIME &amp; DATE</string>
+    <string name="bpm_systolic">SYSTOLIC</string>
+    <string name="bpm_timestamp">%1$tT %1$te.%1$tm.%1$tY</string>
+    <string name="bpm_unit_bpm">bpm</string>
+    <string name="bpm_unit_kpa">kPa</string>
+    <string name="bpm_unit_mmhg">mmHg</string>
+    <string name="dfu_about_text">The Device Firmware Update (DFU) app that is compatible with Nordic Semiconductor nRF51822 devices that have the S110 SoftDevice 
+        and bootloader enabled. It allows to upload new application onto the device over-the-air (OTA).\nThe DFU discovers supported DFU devices, connects to them, 
+        and uploads user selected firmware applications to the device.</string>
+    <string name="dfu_action_select_file">SELECT FILE</string>
+    <string name="dfu_action_upload">UPLOAD</string>
+    <string name="dfu_action_upload_cancel">CANCEL</string>
+    <string name="dfu_action_upload_help">\?</string>
+    <string name="dfu_alert_no_filebrowser_message">File browser application has not been found on your device. Would you like to download one?</string>
+    <string name="dfu_alert_no_filebrowser_title">File Browser not found</string>
+    <string name="dfu_confirmation_dialog_exit_message">Are you sure to exit?</string>
+    <string name="dfu_confirmation_dialog_title">Application Uploading</string>
+    <string name="dfu_default_name">DEFAULT DFU</string>
+    <string name="dfu_example_files_created">Example HEX files were copied to /sdcard/Noric Semiconductor</string>
+    <string name="dfu_feature_title">DFU</string>
+    <string name="dfu_feature_title_long">DEVICE FIRMWARE UPDATE</string>
+    <string name="dfu_file_name_label">File Name:</string>
+    <string name="dfu_file_size_label">File Size:</string>
+    <string name="dfu_file_size_text">%d bytes</string>
+    <string name="dfu_file_status_invalid">Invalid file</string>
+    <string name="dfu_file_status_invalid_message">Please, select valid HEX file</string>
+    <string name="dfu_file_status_label">Status:</string>
+    <string name="dfu_file_status_no_file">File not loaded</string>
+    <string name="dfu_file_status_ok">OK</string>
+    <string name="dfu_file_type_label">File Type:</string>
+    <string name="dfu_help_message">A file browser application must be installed on the device before selecting the HEX file.
+        \n\nThere are number of applications available on Google Play store, f.e. Total Commander or File Manager, that allow you to pick a file from internal memory of the device. To upload 
+        a file from the Internet you may use f.e. Drive or Dropbox application.
+        \n\nYou will be asked to select an application if more than one is installed. A single application will be launched automatically.
+        \n\nHeart Rate Monitor and Running Speed and Cadence applications were copied to <i>Nordic Semiconductor</i> folder in the internal storage.</string>
+    <string name="dfu_help_title">Select file</string>
+    <string name="dfu_section_application_header">APPLICATION</string>
+    <string name="dfu_section_dfu_header">DEVICE FIRMWARE UPDATE</string>
+    <string name="dfu_upload_dialog_cancel_message">Are you sure to cancel upload?</string>
+    <string name="dfu_uploading_label">Uploading…</string>
+    <string name="dfu_uploading_percentage">%d%%</string>
+    <string name="dfu_uploading_percentage_label">0%</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_plugin_mcp">nRF Master Control Panel</string>
+    <string name="drawer_plugins">PLUGINS</string>
+    <string name="font_path">fonts/trebucbd.ttf</string>
+    <string name="gls_about_text">GLUCOSE SERVICE profile allows you to connect to your Glucose sensor. 
+        You can read the last and historical glucose measurement readings from the device. Current implementation parially supports also the
+        Glucose Measurement Context characteristic which is not supported by the NRF51 SDK 4.4.2 (some parameters are not displayed).</string>
+    <string name="gls_action_abort">Abort</string>
+    <string name="gls_action_all">All</string>
+    <string name="gls_action_clear">Clear</string>
+    <string name="gls_action_delete_all">Delete all</string>
+    <string name="gls_action_first">First</string>
+    <string name="gls_action_last">Last</string>
+    <string name="gls_action_more">More</string>
+    <string name="gls_action_refresh">Refresh</string>
+    <string name="gls_context_carbohydrare_title">Carbohydrate</string>
+    <string name="gls_context_health_title">Health</string>
+    <string name="gls_context_meal_title">Meal</string>
+    <string name="gls_context_tester_title">Tester</string>
+    <string name="gls_default_name">DEFAULT GLS</string>
+    <string name="gls_feature_title">BGM</string>
+    <string name="gls_feature_title_long">GLUCOSE SERVICE</string>
+    <string name="gls_location_title">Sample Location</string>
+    <string name="gls_no_data">No values to display</string>
+    <string name="gls_operation_failed">Operation failed</string>
+    <string name="gls_operation_not_supported">Operation not supported by the device</string>
+    <string name="gls_progress">Downloading %d records</string>
+    <string name="gls_section_actions">CONTROL</string>
+    <string name="gls_section_data">READINGS</string>
+    <string name="gls_status_annunciatioin_title">Sensor Status Annunciation</string>
+    <string name="gls_timestamp">%1$te %1$tb %1$tY at %1$tT</string>
+    <string name="gls_unit_mgpdl">mg/dl</string>
+    <string name="gls_unit_mmolpl">mmol/l</string>
+    <string name="gls_value">%.1f</string>
+    <string name="hrs_about_text">HRM (Heart Rate Monitor) profile allows you to connect to your Heart Rate sensor (f.e. a belt). 
+        It shows you the current rate, location of the sensor and a historic data on the graph.</string>
+    <string name="hrs_default_name">DEFAULT HRM</string>
+    <string name="hrs_feature_title">HRM</string>
+    <string name="hrs_feature_title_long">HEART RATE MONITOR</string>
+    <string name="hrs_position_label">sensor position</string>
+    <string name="hrs_value_unit">bpm</string>
+    <string name="hts_about_text">CFX PPscout helps you love your baby.</string>
+    <string name="hts_check_his_data">Check history data.</string>
+    <string name="hts_default_name">DEFAULT HTM</string>
+    <string name="hts_feature_title">CFX PPscout</string>
+    <string name="hts_feature_title_long">BABY PEE AND HEALTH MONITOR</string>
+    <string name="hts_pls_input_warning_threshold">Input the warning humidity threshold .</string>
+    <string name="hts_set_threshold">Set.</string>
+    <string name="hts_unit_celsius">°C</string>
+    <string name="hts_unit_humidity">RH</string>
+    <string name="no_apps">No profiles found.</string>
+    <string name="no_ble">Device doesn\'t have BLE support!</string>
+    <string name="normal_font_path">fonts/trebuc.ttf</string>
+    <string name="not_available">n/a</string>
+    <string name="not_available_value">" - "</string>
+    <string name="not_supported">The device does not has required services.</string>
+    <string name="permission_log_description">Allows the app to write and read from Nordic Semiconductor Event log</string>
+    <string name="permission_log_label">read and write log</string>
+    <string name="proximity_about_text">PROXIMITY profile allows you to connect to your Proximity sensor.
+        \nYou can find your valuables attached with Proximity tag by pressing FindMe button on screen and you can find your phone by pressing relevant button on your tag.
+        \n\nYou may close this activity when connected without being disconnected from the sensor. A notification will be shown.</string>
+    <string name="proximity_action_findme">FindMe</string>
+    <string name="proximity_action_silentme">SilentMe</string>
+    <string name="proximity_default_name">DEFAULT PROXIMITY</string>
+    <string name="proximity_feature_title">PROXIMITY</string>
+    <string name="proximity_feature_title_long">PROXIMITY MONITOR</string>
+    <string name="proximity_lock_image_description">LOCK Image</string>
+    <string name="proximity_notification_action_disconnect">Disconnect</string>
+    <string name="proximity_notification_connected_message">%s is connected.</string>
+    <string name="proximity_notification_linkloss_alert">%s is getting away!</string>
+    <string name="scanner_action_cancel">Cancel</string>
+    <string name="scanner_action_scan">Scan</string>
+    <string name="scanner_empty">No device found</string>
+    <string name="scanner_subtitle__not_bonded">AVAILABLE DEVICES:</string>
+    <string name="scanner_subtitle_bonded">BONDED DEVICES:</string>
+    <string name="scanner_title">Select device:</string>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/back</item>
+        <item name="android:actionBarStyle">@style/Widget.ActionBar</item>
+        <item name="android:buttonStyle">@style/Widget.Button</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_ab_back_holo_dark</item>
+        <item name="android:textAppearanceListItem">@style/TextAppearance</item>
+        <item name="android:textAppearanceListItemSmall">@style/TextAppearance.Small</item>
+        <item name="android:actionOverflowButtonStyle">@style/Widget.ActionBar.Overflow</item>
+    </style>
+    <style name="AppTheme.Fullscreen" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@drawable/back</item>
+    </style>
+    <style name="AppTheme1" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/awake</item>
+        <item name="android:actionBarStyle">@style/Widget.ActionBar</item>
+        <item name="android:buttonStyle">@style/Widget.Button</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_ab_back_holo_dark</item>
+        <item name="android:textAppearanceListItem">@style/TextAppearance</item>
+        <item name="android:textAppearanceListItemSmall">@style/TextAppearance.Small</item>
+        <item name="android:actionOverflowButtonStyle">@style/Widget.ActionBar.Overflow</item>
+    </style>
+    <style name="TextAppearance">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/actionBarColor</item>
+        <item name="android:backgroundStacked">@color/actionBarColor</item>
+        <item name="android:backgroundSplit">@color/actionBarColor</item>
+        <item name="android:displayOptions">useLogo|showHome|showTitle</item>
+    </style>
+    <style name="Widget.ActionBar.Overflow" parent="@android:style/Widget.Holo.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_menu_moreoverflow</item>
+    </style>
+    <style name="Widget.Button" parent="@android:style/Widget.Holo.Light.Button">
+        <item name="android:minWidth">160dip</item>
+    </style>
+    <style name="Widget.Connect" parent="@android:style/Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:paddingLeft">40dp</item>
+        <item name="android:paddingRight">40dp</item>
+    </style>
+    <style name="Widget.ListTitle">
+        <item name="android:background">@color/headerBackgroundColor</item>
+        <item name="android:textColor">@color/headerTextColor</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Widget.ScannerSubtitle">
+        <item name="android:textColor">@color/headerBackgroundColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

@@ -1,7 +1,0 @@
-#Mon Nov 06 19:05:29 CST 2017
-base.0=D\:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_29d27738e93056fb92361b1506edc39114b61164
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_477833a67122006df98682adf41f3d2730a655a6\\classes.dex
-base.1=D\:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_477833a67122006df98682adf41f3d2730a655a6
-file.0=D\:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_29d27738e93056fb92361b1506edc39114b61164\\classes.dex

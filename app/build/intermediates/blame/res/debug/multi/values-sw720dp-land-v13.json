@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "E:\\Gitsource\\fallsens_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 642,
+                        "startOffset": 628,
                         "endColumn": 58,
-                        "endOffset": 696
+                        "endOffset": 682
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 172
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 763,
+                        "startOffset": 747,
                         "endColumn": 62,
-                        "endOffset": 821
+                        "endOffset": 805
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 232
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 702,
+                        "startOffset": 687,
                         "endColumn": 59,
-                        "endOffset": 757
+                        "endOffset": 742
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 290
                 },
                 "from": {
-                    "file": "D:\\bitbusket\\fallsens\\fallsens_app\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "E:\\Gitsource\\fallsens_app\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 833,
+                        "startOffset": 815,
                         "endColumn": 57,
-                        "endOffset": 886
+                        "endOffset": 868
                     }
                 }
             }

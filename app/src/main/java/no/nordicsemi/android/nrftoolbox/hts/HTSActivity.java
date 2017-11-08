@@ -98,7 +98,10 @@ public class HTSActivity extends BleProfileActivity implements HTSManagerCallbac
         V_SVM = (TextView) findViewById(R.id.svm);
 
 		publicDATA.alernvalue=24.5;
+		publicDATA.fallalern=false;
 		publicDATA.time=0;
+		publicDATA.count=0;
+		publicDATA.count2=0;
 		//btn_calibrate = (Button) findViewById(R.id.calibratebutton);
 /*		write("324123435234253453\n");
 		write("»ÆÐñ\n");*/
@@ -163,9 +166,12 @@ public class HTSActivity extends BleProfileActivity implements HTSManagerCallbac
 
                 }
             });
-			if(publicDATA.psvm>=publicDATA.alernvalue){
-				//DebugLogger.e(TAG, "------------------------------" );
+			if(publicDATA.fallalern){
 				V_SVM.setTextColor(Color.RED);
+			}
+			else if(publicDATA.psvm>=publicDATA.alernvalue){
+				//DebugLogger.e(TAG, "------------------------------" );
+				V_SVM.setTextColor(Color.GREEN);
 
 			}
 			else{

@@ -284,7 +284,10 @@ public class HTSManager extends Service implements BleManager<HTSManagerCallback
 			double x_res = 0.0;
 			double y_res = 0.0;
 			double z_res = 0.0;
-			double SVM1 = 0.0,SVM2 = 0.0;
+			double x_real;
+			double y_real;
+			double z_real;
+			double SVM2 = 0.0;//SVM1 = 0.0,
 			byte flag;
 			if (characteristic.getUuid().equals(HT_MEASUREMENT_CHARACTERISTIC_UUID)) {
 				if (isBatteryServiceFound)
@@ -293,15 +296,20 @@ public class HTSManager extends Service implements BleManager<HTSManagerCallback
 					x_res = decodeTemperature(characteristic.getValue());
 					y_res = decodeY(characteristic.getValue());
 					z_res = decodeZ(characteristic.getValue());
+					x_real = x_res+publicDATA.x;
+					y_real = y_res+publicDATA.y;
+					z_real = z_res+publicDATA.z;
 					//svm1 原始svm
-					//SVM1 = java.lang.Math.pow((java.lang.Math.pow(x_res,2)+
-					//		                   java.lang.Math.pow(y_res,2)+
-					//		                   java.lang.Math.pow(z_res,2)),0.5);
+					//SVM1 = java.lang.Math.pow((java.lang.Math.pow(x_res,2) +
+					//		  java.lang.Math.pow(y_res,2) +
+					//		  java.lang.Math.pow(z_res,2)),0.5);
 					//svm2 校正svm
-					SVM2 = java.lang.Math.pow((java.lang.Math.pow((x_res+publicDATA.x),2)+
-							java.lang.Math.pow((y_res+publicDATA.y),2)+
-							java.lang.Math.pow( z_res+publicDATA.z ,2)),0.5);
-                    publicDATA.psvm=SVM2;
+					SVM2 = java.lang.Math.pow((java.lang.Math.pow(x_real,2) +
+							java.lang.Math.pow(y_real,2) +
+							java.lang.Math.pow( z_real,2)),0.5);
+                    publicDATA.psvm = SVM2;
+
+
 					mCallbacks.onHTValueReceived(x_res);
 					mCallbacks.onHTHuValueReceived(y_res);
 					mCallbacks.onBatteryValueReceived(z_res);
@@ -309,9 +317,9 @@ public class HTSManager extends Service implements BleManager<HTSManagerCallback
 					mCallbacks.onV_OXReceived(x_res);
 					mCallbacks.onV_OYReceived(y_res);
 					mCallbacks.onV_OZReceived(z_res);
-					mCallbacks.onV_CXReceived(x_res+publicDATA.x);
-					mCallbacks.onV_CYReceived(y_res+publicDATA.y);
-					mCallbacks.onV_CZReceived(z_res+publicDATA.z);
+					mCallbacks.onV_CXReceived(x_real);
+					mCallbacks.onV_CYReceived(y_real);
+					mCallbacks.onV_CZReceived(z_real);
 
 					mCallbacks.onV_SVMReceived(SVM2);
 					//mCallbacks.onHTHuValueReceived(y_res);
@@ -334,26 +342,59 @@ public class HTSManager extends Service implements BleManager<HTSManagerCallback
 					//write("After Calibrate"+"("+Double.toString(publicDATA.x)+","+
 					//		                    Double.toString(publicDATA.y)+","+
 					//		                    Double.toString(publicDATA.z)+"):"+"\n");
-					write(Double.toString(x_res+publicDATA.x)+" ");
-					write(Double.toString(y_res+publicDATA.y)+" ");
-					write(Double.toString(z_res+publicDATA.z)+" ");
+					write(Double.toString(x_real)+" ");
+					write(Double.toString(y_real)+" ");
+					write(Double.toString(z_real)+" ");
 					write(Double.toString(SVM2)+"\n");
-					//time相当于一个防止重复播放声音的延时
-					if(publicDATA.time>140) {
-						//DebugLogger.e(TAG, "startmusic exist========== " );
-						publicDATA.time=0;
-					}
-					 if(publicDATA.psvm>=publicDATA.alernvalue){
-						 if(publicDATA.time==0||publicDATA.time==70){
-							 //DebugLogger.e(TAG, "startmusic start========== "+publicDATA.time);
-							 MediaPlayer mp = MediaPlayer.create(mContext, R.raw.youhavelostyourbaby);//重新设置要播放的音频
-							 mp.start();
 
+					//time相当于一个防止重复播放声音的延时
+					//if(publicDATA.time>140) {//DebugLogger.e(TAG, "startmusic exist========== " );
+					//	publicDATA.time=0;
+					//}
+
+					//svm超过临界值
+					 if(publicDATA.psvm>=publicDATA.alernvalue){
+						 publicDATA.count++;
+						 //排除后7个数据
+						 if(publicDATA.count>7)
+						 {
+							 //三次检测数据
+							 if((!publicDATA.fallalern)&&(publicDATA.count2<3))
+							 {
+								 publicDATA.count2++;
+								 if(  ((x_real>5)&&(y_real<5))||
+									  ((z_real>5)&&(y_real<5))  )
+								 //符合x>0.5g&&y<0.5g或者z>0.5g&&y<0.5g
+								 {
+									 publicDATA.fallalern=true;
+									 //if(publicDATA.time==0||publicDATA.time==70){
+										 //DebugLogger.e(TAG, "startmusic start========== "+publicDATA.time);
+									 MediaPlayer mp = MediaPlayer.create(mContext, R.raw.youhavelostyourbaby);//重新设置要播放的音频
+									 mp.start();
+
+									 //}
+
+								 }
+								 else {
+									 //publicDATA.fallalern=false;
+									 //publicDATA.count=0;
+									 //publicDATA.count2=0;
+								 }
+							 }
+							 //超过三次或者已经判断为跌倒
+							 else{
+
+							 }
 						 }
-						 publicDATA.time++;
+						 //publicDATA.time++;
 						 //DebugLogger.e(TAG, "---------------------- "+publicDATA.time);
 					}
-					else publicDATA.time=0;
+					else {
+						 publicDATA.fallalern=false;
+						 //publicDATA.time = 0;
+						 publicDATA.count=0;
+						 publicDATA.count2=0;
+					 }
 
 				} catch (Exception e) {
 					DebugLogger.e(TAG, "invalid temperature value");
